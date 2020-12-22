@@ -20,7 +20,7 @@
 
 - Enter the local repository directory using `cd directory-name`
 
-- Run the executable command file using `chmod +x git-coomand-name`
+- Run the executable command file using `chmod +x git-command-name`
 
 - Copy the executed `git-command.sh` to your `/user/bin` for git to identify the custom *git* command<br /> using `sudo cp git-command-name /usr/bin/git-command-name`
 
