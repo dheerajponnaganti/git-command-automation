@@ -2,7 +2,7 @@
 
 ## Operations
 
-- **_lazypush_**: The lazy way to for add all, commit and push to current branch.
+- **_lazypush_**: The lazy way to add all to git stack, commit and push to current branch.
 
 - **_switch-to_**: The custom command to checkout to a new branch with all the unstaged changes present in the current branch.
 
