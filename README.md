@@ -1,13 +1,35 @@
 # GIT Command Automation
 
-## Operations-
+## Operations
 
-1. lazypush: The lazy way to for add all, commit and push command.
+- **_lazypush_**: The lazy way to for add all, commit and push to current branch.
 
-2. switch-to: The custom command to checkout to a new branch with all the unstaged changes present in the current branch.
+- **_switch-to_**: The custom command to checkout to a new branch with all the unstaged changes present in the current branch.
 
-3. remote-diff: The custom command to view the difference between the local and the remote of the specified branch.
+- **_remote-diff_**: The custom command to view the difference between the local and the remote of the specified branch.
 
-4. remote-log: The custom command helps you to view the commit logs between the local and remote changes of the given branch.
+- **_remote-log_**: The custom command helps you to view the commit logs between the local and remote changes of the given branch.
 
-5. hard-delete: The custom command to delete a branch both locally and remotely.
+- **_hard-delete_**: The custom command to delete a branch both locally and remotely.
+
+## Usage
+
+### Linux/Debian-
+
+- Clone this repository locally.
+
+- Enter the local repository directory using `cd directory-name`
+
+- Run the executable command file using `chmod +x git-coomand-name`
+
+- Copy the executed `git-command.sh` to your `/user/bin` for git to identify the custom *git* command using `sudo cp git-command-name /usr/bin/git-command-name`
+
+- Done! Now you are ready to use the custom git commands using `git command-name message/branch-name` example `git lazypush "test commit message"`
+
+### Windows-
+
+**_Coming Soon_**
+
+### MacOS-
+
+**_Coming Soon_**
