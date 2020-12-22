@@ -22,9 +22,9 @@
 
 - Run the executable command file using `chmod +x git-coomand-name`
 
-- Copy the executed `git-command.sh` to your `/user/bin` for git to identify the custom *git* command using `sudo cp git-command-name /usr/bin/git-command-name`
+- Copy the executed `git-command.sh` to your `/user/bin` for git to identify the custom *git* command<br /> using `sudo cp git-command-name /usr/bin/git-command-name`
 
-- Done! Now you are ready to use the custom git commands using `git command-name message/branch-name` example `git lazypush "test commit message"`
+- Done! Now you are ready to use the custom git commands using `git command-name message/branch-name`<br /> example `git lazypush "test commit message"`
 
 ### Windows-
 
